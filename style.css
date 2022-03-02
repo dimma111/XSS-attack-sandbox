@@ -1,0 +1,15 @@
+.form-floating label {
+  color: #000 !important;
+}
+
+.h-150 {
+  min-height: 150px;
+}
+
+.h-180 {
+  min-height: 180px;
+}
+
+.bg-gray {
+  background-color: #eee;
+}
